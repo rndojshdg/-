@@ -8,7 +8,7 @@ import os
 
 # URL страницы, которую хотим спарсить
 
-url = "https://sites.google.com/view/uchimpiton"  # Замените на URL, который вам интересен
+url = ""  # Замените на URL, который вам интересен
 
 
 
